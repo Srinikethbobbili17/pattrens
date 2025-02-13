@@ -1,0 +1,3 @@
+D:/C++/pattren/cmake-build-debug/CMakeFiles/pattren.dir
+D:/C++/pattren/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/pattren/cmake-build-debug/CMakeFiles/rebuild_cache.dir
